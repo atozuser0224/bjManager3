@@ -1,0 +1,15 @@
+name: bjManager
+version: '1.0-SNAPSHOT'
+main: org.gang.bjManager.BJManager
+api-version: '1.16'
+commands:
+  bj:
+    description: A command with multiple subcommands
+    usage: /bj <subcommand>
+libraries:
+  - com.squareup.okhttp3:okhttp:4.12.0
+  - com.github.shynixn.mccoroutine:mccoroutine-bukkit-api:2.20.0
+  - com.github.shynixn.mccoroutine:mccoroutine-bukkit-core:2.20.0
+  - org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1
+  - org.java-websocket:Java-WebSocket:1.5.5
+  - org.seleniumhq.selenium:selenium-java:4.26.0

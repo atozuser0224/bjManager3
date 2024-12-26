@@ -1,0 +1,167 @@
+[19:05:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:05:43] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[19:05:44] [Worker-Main-5/INFO]: Loaded 7 recipes
+[19:05:45] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[19:05:45] [Server thread/INFO]: Loading properties
+[19:05:45] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[19:05:45] [Server thread/INFO]: Debug logging is disabled
+[19:05:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:05:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:05:45] [Server thread/INFO]: Default game type: SURVIVAL
+[19:05:45] [Server thread/INFO]: Generating keypair
+[19:05:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:05:46] [Server thread/INFO]: Using default channel type
+[19:05:46] [Server thread/INFO]: [bjManager] Loading 6 libraries... please wait
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\squareup\okhttp3\okhttp\4.12.0\okhttp-4.12.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\squareup\okio\okio\3.6.0\okio-3.6.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\squareup\okio\okio-jvm\3.6.0\okio-jvm-3.6.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.8.21\kotlin-stdlib-jdk8-1.8.21.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.8.21\kotlin-stdlib-jdk7-1.8.21.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\github\shynixn\mccoroutine\mccoroutine-bukkit-api\2.20.0\mccoroutine-bukkit-api-2.20.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\jetbrains\kotlin\kotlin-stdlib\1.9.25\kotlin-stdlib-1.9.25.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\jetbrains\annotations\13.0\annotations-13.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\github\shynixn\mccoroutine\mccoroutine-bukkit-core\2.20.0\mccoroutine-bukkit-core-2.20.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\jetbrains\kotlinx\kotlinx-coroutines-core\1.6.1\kotlinx-coroutines-core-1.6.1.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\jetbrains\kotlinx\kotlinx-coroutines-core-jvm\1.6.1\kotlinx-coroutines-core-jvm-1.6.1.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\jetbrains\kotlin\kotlin-stdlib-common\1.6.0\kotlin-stdlib-common-1.6.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\java-websocket\Java-WebSocket\1.5.5\Java-WebSocket-1.5.5.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\slf4j\slf4j-api\2.0.6\slf4j-api-2.0.6.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-java\4.26.0\selenium-java-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-api\4.26.0\selenium-api-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-chrome-driver\4.26.0\selenium-chrome-driver-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-chromium-driver\4.26.0\selenium-chromium-driver-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-json\4.26.0\selenium-json-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-manager\4.26.0\selenium-manager-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-devtools-v128\4.26.0\selenium-devtools-v128-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-devtools-v129\4.26.0\selenium-devtools-v129-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-devtools-v130\4.26.0\selenium-devtools-v130-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-devtools-v85\4.26.0\selenium-devtools-v85-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-edge-driver\4.26.0\selenium-edge-driver-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-firefox-driver\4.26.0\selenium-firefox-driver-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-http\4.26.0\selenium-http-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-ie-driver\4.26.0\selenium-ie-driver-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-remote-driver\4.26.0\selenium-remote-driver-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\google\guava\guava\33.3.1-jre\guava-33.3.1-jre.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\checkerframework\checker-qual\3.43.0\checker-qual-3.43.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\google\errorprone\error_prone_annotations\2.28.0\error_prone_annotations-2.28.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\opentelemetry-api\1.43.0\opentelemetry-api-1.43.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\opentelemetry-context\1.43.0\opentelemetry-context-1.43.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\opentelemetry-exporter-logging\1.43.0\opentelemetry-exporter-logging-1.43.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\opentelemetry-sdk-common\1.43.0\opentelemetry-sdk-common-1.43.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.43.0\opentelemetry-sdk-extension-autoconfigure-spi-1.43.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.43.0\opentelemetry-sdk-extension-autoconfigure-1.43.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\opentelemetry-api-incubator\1.43.0-alpha\opentelemetry-api-incubator-1.43.0-alpha.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\opentelemetry-sdk-trace\1.43.0\opentelemetry-sdk-trace-1.43.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\opentelemetry-sdk\1.43.0\opentelemetry-sdk-1.43.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\opentelemetry-sdk-metrics\1.43.0\opentelemetry-sdk-metrics-1.43.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\io\opentelemetry\opentelemetry-sdk-logs\1.43.0\opentelemetry-sdk-logs-1.43.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\net\bytebuddy\byte-buddy\1.15.7\byte-buddy-1.15.7.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-os\4.26.0\selenium-os-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-safari-driver\4.26.0\selenium-safari-driver-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loaded library C:\Users\wagwa\IdeaProjects\bjManager3\run\libraries\org\seleniumhq\selenium\selenium-support\4.26.0\selenium-support-4.26.0.jar
+[19:05:47] [Server thread/INFO]: [bjManager] Loading bjManager v1.0-SNAPSHOT
+[19:05:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:05:47] [Server thread/INFO]: Preparing level "world"
+[19:05:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:05:47] [Server thread/INFO]: Preparing spawn area: 0%
+[19:05:47] [Server thread/INFO]: Time elapsed: 307 ms
+[19:05:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:05:48] [Server thread/INFO]: Preparing spawn area: 0%
+[19:05:48] [Server thread/INFO]: Preparing spawn area: 0%
+[19:05:48] [Server thread/INFO]: Time elapsed: 824 ms
+[19:05:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:05:48] [Server thread/INFO]: Preparing spawn area: 0%
+[19:05:48] [Server thread/INFO]: Time elapsed: 103 ms
+[19:05:48] [Server thread/INFO]: [bjManager] Enabling bjManager v1.0-SNAPSHOT
+[19:05:48] [Server thread/INFO]: Running delayed init tasks
+[19:05:48] [Server thread/INFO]: Done (3.573s)! For help, type "help"
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_432
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[19:05:48] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[19:05:48] [Server thread/INFO]: Timings Reset
+[19:05:58] [User Authenticator #1/INFO]: UUID of player wag0224 is b7e43439-4283-4c09-b577-7bac754939fd
+[19:05:58] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to bjManager v1.0-SNAPSHOT
+java.lang.UnsupportedClassVersionError: xyz/r2turntrue/chzzk4j/ChzzkBuilder has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_432]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756) ~[?:1.8.0_432]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:201) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:119) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:114) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_432]
+	at org.gang.bjManager.ChzzkSystemInstance.<clinit>(ChzzkFile.kt:15) ~[?:?]
+	at org.gang.bjManager.BJListener.onJoin(BJListener.kt:13) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor2.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.16.5.jar:git-Paper-794]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerList.postChunkLoadJoin(PlayerList.java:356) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerList.lambda$a$1(PlayerList.java:303) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.tick(PlayerConnection.java:316) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.NetworkManager.a(NetworkManager.java:408) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ServerConnection.c(ServerConnection.java:168) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1520) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[19:05:58] [Server thread/INFO]: wag0224 joined the game
+[19:05:58] [Server thread/INFO]: wag0224[/127.0.0.1:64674] logged in with entity id 322 at ([world]-57.321932715155484, 65.0, 87.0104010558528)
+[19:06:12] [Server thread/INFO]: wag0224 issued server command: /stop
+[19:06:15] [Server thread/INFO]: Stopping the server
+[19:06:15] [Server thread/INFO]: Stopping server
+[19:06:15] [Server thread/INFO]: [bjManager] Disabling bjManager v1.0-SNAPSHOT
+[19:06:15] [Server thread/ERROR]: Error occurred while disabling bjManager v1.0-SNAPSHOT (Is it up to date?)
+java.lang.NoClassDefFoundError: Could not initialize class org.gang.bjManager.ChzzkSystemInstance
+	at org.gang.bjManager.BJManager.onDisable(BJManager.kt:30) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:405) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:533) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:519) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:512) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.disablePlugins(CraftServer.java:452) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.stop(MinecraftServer.java:906) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.stop(DedicatedServer.java:763) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1182) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[19:06:15] [Server thread/INFO]: Saving players
+[19:06:15] [Server thread/INFO]: wag0224 lost connection: Server closed
+[19:06:15] [Server thread/INFO]: wag0224 left the game
+[19:06:15] [Server thread/INFO]: Saving worlds
+[19:06:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:06:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:06:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:06:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:06:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:06:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:06:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:06:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:06:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:06:17] [Server thread/INFO]: Flushing Chunk IO
+[19:06:17] [Server thread/INFO]: Closing Thread Pool
+[19:06:17] [Server thread/INFO]: Closing Server
